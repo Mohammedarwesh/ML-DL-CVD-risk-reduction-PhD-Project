@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1088/1757-899X/1085/1/012028
+UR  - https://dx.doi.org/10.1088/1757-899X/1085/1/012028
+TI  - Heart disease prediction system using Correlation Based Feature Selection with Multilayer Perceptron approach.
+T2  - IOP Conference Series: Materials Science and Engineering
+AU  - Kuruvilla, Ambily Merlin
+AU  - Balaji, N.V
+PY  - 2021
+DA  - 2021/02/01
+PB  - IOP Publishing
+SP  - 012028
+IS  - 1
+VL  - 1085
+SN  - 1757-899X
+SN  - 1757-8981
+AB  - Cardiac disease prediction helps physicians to make accurate recommendations on the treatment of the patients. The use of machine learning (ML) is one of the solution for recognising heart disease-related symptoms. The goal of this study is to suggest a methodology for identifying the most relevant features of cardiac disease characteristics by applying a feature selection technique. The data set used in this study was Framingham heart disease dataset (FHS). It was collected from KAGGLE Machine Learning repository. There are 16 attributes and a mark in the dataset that has been validated by four ML classifiers. There are two feature selection methods, Correlation Based Feature selection (CBFS) and Principle Component Analysis (PCA) was used for the comparison in the study. By using CBFS Method five highly correlated features are selected for the study, and by using PCA thirteen features are selected. The experimental result shows that Correlation Based Feature Selection with Multilayer perceptron (CBFS with MLP) obtained the highest accuracy for this dataset.
+ER  - 
